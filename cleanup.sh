@@ -1,6 +1,4 @@
 #!/bin/bash
-
-!/bin/bash
 ##Purge Docker Images
 docker image prune -af
 ##Purge Docker containers
